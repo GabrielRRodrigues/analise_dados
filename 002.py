@@ -10,8 +10,8 @@ tabela = tabela.drop('Unnamed: 8', axis=1)
 
 # Passo 2: Visualizar a base de dados
 # print(tabela.info())
-# Entender as informações que você tem disponível
-# Procurar cagadas na base de dados
+# Entender as informações disponíveis 
+# Procurar erros na base de dados
     # células vazias
     # tipo de dados
 
